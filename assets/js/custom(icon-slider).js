@@ -43,7 +43,8 @@ Assigned to: ThemeForest
                     breakpoints: {
                         // when window width is <= 320px
                         0: {
-                            slidesPerView: 1
+                            slidesPerView: 2,
+                            spaceBetween: 10
                         },
                         // when window width is <= 767px
                         768: {
